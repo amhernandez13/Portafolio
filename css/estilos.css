@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: "Source Code Pro", monospace;
+    color: #E1EFE6;
+}
+
+body {
+    max-width: 1000px;
+    margin: auto;
+    background-color: #160C28 ;
+}
+#fotoperfil {
+    text-align: center;
+}
+
+h1, h2{
+    color: #23F0C7;
+}
+  h3, h4 {
+    color: #EF767A;
+}
+
+header {
+    margin-bottom: 50px;
+    border: 500px;
+   
+}
+
+.izq {
+    width: 75%;
+    }
+
+.der {
+    width: 25%;
+}
+
+footer {
+    margin-top: auto;
+    background-color: black;
+    float: none;
+    text-align: center;
+    padding: 15px;
+}
+
+td {
+text-align: start;
+}
